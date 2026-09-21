@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" alt="Robel Gebregziabher - AI Engineer">
+
+<br><br>
+
 # Robel Gebregziabher
 
 ### AI / Machine Learning Engineer in Training
