@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./banner.png" width="100%" alt="Robel Gebregziabher - AI Engineer">
+
+<br><br>
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Robel+Gebregziabher;AI+%2F+Machine+Learning+Engineer+in+Training;Building+Practical+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI" alt="Typing Animation">
 </a>
