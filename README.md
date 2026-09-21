@@ -1,30 +1,30 @@
 <div align="center">
 
-<br><br>
-
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Robel+Gebregziabher+AI Engineer ;AI+%2F+Machine+Learning+Engineer+in+Training;Building+Practical+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Robel+Gebregziabher;AI+%2F+Machine+Learning+Engineer+in+Training;Building+Practical+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI" alt="Typing Animation">
 </a>
 
 <br>
 
-<h3>Building practical AI systems with Machine Learning, Deep Learning & Generative AI</h3>
+### Building practical AI systems with Machine Learning, Deep Learning & Generative AI
 
 <br>
 
 <a href="https://github.com/robelgher16-ai">
-<img src="https://img.shields.io/badge/GitHub-robelgher16--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-robelgher16--ai-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/robel-gebregziabher-4464762a2/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="https://www.upwork.com/freelancers/~010a1a953798c67751">
-<img src="https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+<img src="https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=00C9FF&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=00C9FF&style=flat-square">
 
 </div>
 
@@ -32,13 +32,11 @@
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/ABOUT_ME-00C9FF?style=for-the-badge" alt="About Me">
+## <img src="https://img.shields.io/badge/ABOUT_ME-00C9FF?style=for-the-badge">
 
 </div>
 
 I'm an **Information Technology student and AI Engineering intern** focused on building practical Artificial Intelligence systems.
-
-My learning approach is simple:
 
 <div align="center">
 
@@ -48,13 +46,15 @@ My learning approach is simple:
 
 I work across:
 
-* **Machine Learning**
-* **Deep Learning**
-* **Generative AI**
-* **Natural Language Processing**
-* **Computer Vision**
-* **AI Engineering**
-* **Data Analysis**
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer_Vision-27338E?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Engineering-00C9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge">
+</p>
 
 I enjoy turning AI concepts into complete applications — from data preparation and model development to APIs, interfaces, testing, and cloud deployment.
 
@@ -62,24 +62,24 @@ I enjoy turning AI concepts into complete applications — from data preparation
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/AI_ENGINEERING_JOURNEY-7F5AF0?style=for-the-badge" alt="AI Engineering Journey">
+## <img src="https://img.shields.io/badge/AI_ENGINEERING_JOURNEY-7F5AF0?style=for-the-badge">
 
 </div>
 
 ```text
-Data Analysis
+DATA ANALYSIS
       ↓
-Machine Learning
+MACHINE LEARNING
       ↓
-Deep Learning
+DEEP LEARNING
       ↓
-Computer Vision
+COMPUTER VISION
       ↓
-Generative AI
+GENERATIVE AI
       ↓
-RAG & AI Agents
+RAG & AI AGENTS
       ↓
-Production AI Systems
+PRODUCTION AI SYSTEMS
 ```
 
 <div align="center">
@@ -92,11 +92,11 @@ Production AI Systems
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/TECH_STACK-FF6B6B?style=for-the-badge" alt="Tech Stack">
+## <img src="https://img.shields.io/badge/TECH_STACK-FF6B6B?style=for-the-badge">
 
 </div>
 
-### <img src="https://img.shields.io/badge/Languages_%26_Data-3776AB?style=flat-square" alt="Languages and Data">
+### <img src="https://img.shields.io/badge/LANGUAGES_%26_DATA-3776AB?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -105,7 +105,7 @@ Production AI Systems
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 
-### <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" alt="Machine Learning">
+### <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -114,7 +114,7 @@ Production AI Systems
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge">
 </p>
 
-### <img src="https://img.shields.io/badge/Deep_Learning_%26_Computer_Vision-EE4C2C?style=flat-square" alt="Deep Learning and Computer Vision">
+### <img src="https://img.shields.io/badge/DEEP_LEARNING_%26_CV-EE4C2C?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -122,7 +122,7 @@ Production AI Systems
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
-### <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=flat-square" alt="Generative AI">
+### <img src="https://img.shields.io/badge/GENERATIVE_AI-8E75B2?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
@@ -131,14 +131,14 @@ Production AI Systems
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge">
 </p>
 
-### <img src="https://img.shields.io/badge/Vector_Databases_%26_RAG-5A45FF?style=flat-square" alt="Vector Databases and RAG">
+### <img src="https://img.shields.io/badge/RAG_%26_VECTOR_DATABASES-5A45FF?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge">
 </p>
 
-### <img src="https://img.shields.io/badge/Applications_%26_APIs-009688?style=flat-square" alt="Applications and APIs">
+### <img src="https://img.shields.io/badge/APPLICATIONS_%26_APIs-009688?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
@@ -146,7 +146,7 @@ Production AI Systems
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge">
 </p>
 
-### <img src="https://img.shields.io/badge/Development_%26_Deployment-2496ED?style=flat-square" alt="Development and Deployment">
+### <img src="https://img.shields.io/badge/DEPLOYMENT-2496ED?style=flat-square">
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -159,11 +159,11 @@ Production AI Systems
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-00C9FF?style=for-the-badge" alt="Featured Projects">
+## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-00C9FF?style=for-the-badge">
 
 </div>
 
-## <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge" alt="Machine Learning">
+## <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge">
 
 ### House Price Prediction
 
@@ -197,7 +197,7 @@ Render
 
 ---
 
-## <img src="https://img.shields.io/badge/GENERATIVE_AI-8E75B2?style=for-the-badge" alt="Generative AI">
+## <img src="https://img.shields.io/badge/GENERATIVE_AI-8E75B2?style=for-the-badge">
 
 ### Movie Information Extractor
 
@@ -233,7 +233,7 @@ Render
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/PROJECT_AREAS-7F5AF0?style=for-the-badge" alt="Project Areas">
+## <img src="https://img.shields.io/badge/PROJECT_AREAS-7F5AF0?style=for-the-badge">
 
 | Area             | Repository                                                                               | Focus                                        |
 | ---------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -248,7 +248,7 @@ Render
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-FF6B6B?style=for-the-badge" alt="Currently Building">
+## <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-FF6B6B?style=for-the-badge">
 
 </div>
 
@@ -270,31 +270,31 @@ I'm continuously expanding my AI engineering portfolio through practical project
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/ENGINEERING_PHILOSOPHY-00C9FF?style=for-the-badge" alt="Engineering Philosophy">
+## <img src="https://img.shields.io/badge/ENGINEERING_PHILOSOPHY-00C9FF?style=for-the-badge">
 
 </div>
 
 ```text
-Understand the theory
+UNDERSTAND THE THEORY
         ↓
-Implement the concept
+IMPLEMENT THE CONCEPT
         ↓
-Build a project
+BUILD A PROJECT
         ↓
-Evaluate the result
+EVALUATE THE RESULT
         ↓
-Improve the system
+IMPROVE THE SYSTEM
         ↓
-Deploy it
+DEPLOY IT
         ↓
-Document it
+DOCUMENT IT
 ```
 
 <div align="center">
 
 ### I don't want to only learn AI concepts.
 
-## **I want to build systems with them.**
+## **I WANT TO BUILD SYSTEMS WITH THEM.**
 
 </div>
 
@@ -302,7 +302,7 @@ Document it
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/GITHUB_STATISTICS-24292F?style=for-the-badge" alt="GitHub Statistics">
+## <img src="https://img.shields.io/badge/GITHUB_STATISTICS-24292F?style=for-the-badge">
 
 <br><br>
 
@@ -320,7 +320,7 @@ Document it
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-00C9FF?style=for-the-badge" alt="Contribution Activity">
+## <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-00C9FF?style=for-the-badge">
 
 <br><br>
 
@@ -332,24 +332,24 @@ Document it
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/LET'S_CONNECT-7F5AF0?style=for-the-badge" alt="Let's Connect">
+## <img src="https://img.shields.io/badge/LET'S_CONNECT-7F5AF0?style=for-the-badge">
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/robel-gebregziabher-4464762a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.upwork.com/freelancers/~010a1a953798c67751">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/robity16/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=61591501846842">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <br><br>
