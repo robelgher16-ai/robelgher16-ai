@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Robel Gebregziabher - AI Engineer">
+<img src="assets/banner.png" width="100%" alt="Robel Gebregziabher - AI Engineer">
 
 <br><br>
 
