@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Robel Gebregziabher - AI Engineer">
-
 <br><br>
 
 <a href="https://git.io/typing-svg">
