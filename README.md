@@ -162,7 +162,6 @@ A Generative AI application that converts natural-language movie descriptions in
 | [MACHINE_LEARNING_PROJECTS](https://github.com/robelgher16-ai/MACHINE_LEARNING_PROJECTS) | Machine Learning                      |
 | [DEEP_LEARNING_PROJECTS](https://github.com/robelgher16-ai/DEEP_LEARNING_PROJECTS)       | Deep Learning & Computer Vision       |
 | [GENERATIVE_AI_PROJECTS](https://github.com/robelgher16-ai/GENERATIVE_AI_PROJECTS)       | Generative AI, RAG & LLM Applications |
-| [DATA_ANALYSIS_PROJECTS](https://github.com/robelgher16-ai/DATA_ANALYSIS_PROJECTS)       | Data Analysis & Visualization         |
 
 </div>
 
