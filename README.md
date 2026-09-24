@@ -109,48 +109,6 @@ My work focuses on **Machine Learning, Deep Learning, Generative AI, Computer Vi
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-082B52?style=for-the-badge">
-
-</div>
-
-### Machine Learning
-
-#### House Price Prediction
-
-A complete machine learning regression system covering data analysis, preprocessing, model comparison, evaluation, API development, and cloud deployment.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · CatBoost · FastAPI · Streamlit
-
-[Repository](https://github.com/robelgher16-ai/MACHINE_LEARNING_PROJECTS) · [Live App](https://house-price-predictor-robel.streamlit.app/) · [API](https://house-price-api-7y5w.onrender.com)
-
----
-
-### Machine Learning
-
-#### Student Performance Predictor
-
-A deployed machine learning application that predicts student performance from academic and demographic features using a trained ML model exposed through a FastAPI backend and Streamlit interface.
-
-**Technologies:** Python · Pandas · Scikit-learn · FastAPI · Streamlit · Render
-
-[Repository](https://github.com/robelgher16-ai/MACHINE_LEARNING_PROJECTS) · [Live App](https://machinelearningprojects-roble.streamlit.app/) · [API](https://student-performance-api-3rxe.onrender.com) · [Swagger](https://student-performance-api-3rxe.onrender.com/docs)
-
----
-
-### Generative AI
-
-#### Movie Information Extractor
-
-A Generative AI application that converts natural-language movie descriptions into structured information using LLMs, LangChain, and Pydantic validation, served through a FastAPI backend and Streamlit frontend.
-
-**Technologies:** Python · LangChain · Gemini · TinyLlama · Pydantic · FastAPI · Streamlit · Render
-
-[Repository](https://github.com/robelgher16-ai/GENERATIVE_AI_PROJECTS) · [Live App](https://robelgher16-ai-genera-movie-information-extractorapp-api-0b0ucj.streamlit.app/) · [API](https://movie-information-extractor-api.onrender.com) · [Swagger](https://movie-information-extractor-api.onrender.com/docs)
-
-<br>
-
-<div align="center">
-
 ## <img src="https://img.shields.io/badge/PROJECT_REPOSITORIES-082B52?style=for-the-badge">
 
 </div>
