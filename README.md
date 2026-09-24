@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A33,50:082B52,100:0B3D73&height=300&section=header&text=Robel%20Gebregziabher&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Machine%20Learning%20Engineer%20%C2%B7%20Deep%20Learning%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18&descColor=DCEBFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A33,50:082B52,100:0B3D73&height=300&section=header&text=Robel%20Gebregziabher&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20Engineer&descAlignY=58&descSize=18&descColor=DCEBFA" width="100%"/>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2800&pause=1000&color=FFFFFF&background=082B52&center=true&vCenter=true&width=900&height=80&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;AI+Engineer;Generative+AI+%7C+RAG+%7C+LLM+Applications;Computer+Vision+%7C+NLP+%7C+AI+Agents;Building+Intelligent+Systems"
