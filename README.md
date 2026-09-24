@@ -1,17 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1E3A8A&height=300&section=header&text=Robel%20Gebregziabher&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Generative%20AI&descAlignY=58&descSize=22&descColor=93C5FD" width="100%"/>
+
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Robel+Gebregziabher;Machine+Learning+Engineer;AI+Engineer;Building+Intelligent+Systems"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2800&pause=1000&color=00F0FF&background=0F172A00&center=true&vCenter=true&width=900&height=80&lines=AI+Engineering+Intern;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLM+Applications;Building+Intelligent+Systems"
 alt="Typing Animation"
 />
-
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&section=header"
-/>
-
-### Machine Learning · Deep Learning · Generative AI
 
 <br>
 
@@ -29,11 +23,11 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&secti
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=1E3A8A&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=1E3A8A&style=for-the-badge">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -41,9 +35,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&secti
 
 </div>
 
-I'm an **Information Technology student and AI Engineering intern** focused on building practical intelligent systems.
-
-My work focuses on:
+I'm an **Information Technology student and AI Engineering intern** focused on building practical, intelligent systems.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine_Learning-1E3A8A?style=for-the-badge">
@@ -53,15 +45,9 @@ My work focuses on:
 <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge">
 </p>
 
-I build projects across the AI development lifecycle:
+I work across the full AI development lifecycle — from data preparation and model building to evaluation, API development, and deployment — with the goal of building reliable, useful AI systems while continuously growing as an engineer and researcher.
 
-```text
-Data → Model → Evaluation → API → Application → Deployment
-```
-
-My goal is to build reliable, useful AI systems while continuously developing my engineering and research skills.
-
----
+<br>
 
 <div align="center">
 
@@ -117,7 +103,7 @@ My goal is to build reliable, useful AI systems while continuously developing my
 <img src="https://img.shields.io/badge/Render-047857?style=for-the-badge&logo=render&logoColor=white">
 </p>
 
----
+<br>
 
 <div align="center">
 
@@ -141,27 +127,13 @@ A complete machine learning regression system covering data analysis, preprocess
 
 #### Movie Information Extractor
 
-A Generative AI application that converts natural-language movie descriptions into structured information using LLMs and validation.
-
-```text
-Natural Language
-      ↓
-LLM
-      ↓
-LangChain
-      ↓
-Structured Output
-      ↓
-Pydantic
-      ↓
-FastAPI + Streamlit
-```
+A Generative AI application that converts natural-language movie descriptions into structured information using LLMs, LangChain, and Pydantic validation, served through a FastAPI backend and Streamlit frontend.
 
 **Technologies:** Python · LangChain · Gemini · TinyLlama · Pydantic · FastAPI · Streamlit · Render
 
 [Repository](https://github.com/robelgher16-ai/GENERATIVE_AI_PROJECTS) · [Live App](https://robelgher16-ai-genera-movie-information-extractorapp-api-0b0ucj.streamlit.app/) · [API](https://movie-information-extractor-api.onrender.com) · [Swagger](https://movie-information-extractor-api.onrender.com/docs)
 
----
+<br>
 
 <div align="center">
 
@@ -169,29 +141,27 @@ FastAPI + Streamlit
 
 </div>
 
-| Repository                                                                               | Focus                                 |
-| ---------------------------------------------------------------------------------------- | ------------------------------------- |
-| [MACHINE_LEARNING_PROJECTS](https://github.com/robelgher16-ai/MACHINE_LEARNING_PROJECTS) | Machine Learning                      |
-| [DEEP_LEARNING_PROJECTS](https://github.com/robelgher16-ai/DEEP_LEARNING_PROJECTS)       | Deep Learning & Computer Vision       |
-| [GENERATIVE_AI_PROJECTS](https://github.com/robelgher16-ai/GENERATIVE_AI_PROJECTS)       | Generative AI, RAG & LLM Applications |
+<div align="center">
 
----
+| Repository | Focus |
+|---|---|
+| [MACHINE_LEARNING_PROJECTS](https://github.com/robelgher16-ai/MACHINE_LEARNING_PROJECTS) | Machine Learning |
+| [DEEP_LEARNING_PROJECTS](https://github.com/robelgher16-ai/DEEP_LEARNING_PROJECTS) | Deep Learning & Computer Vision |
+| [GENERATIVE_AI_PROJECTS](https://github.com/robelgher16-ai/GENERATIVE_AI_PROJECTS) | Generative AI, RAG & LLM Applications |
+
+</div>
+
+<br>
 
 <div align="center">
 
 ## <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-1E3A8A?style=for-the-badge">
 
+Practical projects in **Machine Learning · Deep Learning · Computer Vision · Generative AI · RAG · AI Agents · AI Deployment**
+
 </div>
 
-Currently developing practical projects in:
-
-**Machine Learning · Deep Learning · Computer Vision · Generative AI · RAG · AI Agents · AI Deployment**
-
-```text
-Learn → Build → Evaluate → Deploy → Improve
-```
-
----
+<br>
 
 <div align="center">
 
@@ -209,7 +179,7 @@ Learn → Build → Evaluate → Deploy → Improve
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -221,7 +191,7 @@ Learn → Build → Evaluate → Deploy → Improve
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -248,5 +218,9 @@ Learn → Build → Evaluate → Deploy → Improve
 <br><br>
 
 **Building intelligent systems. Learning continuously. Creating practical impact.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F0C29&height=100&section=footer" width="100%"/>
 
 </div>
