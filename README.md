@@ -1,10 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=1E3A8A&center=true&vCenter=true&width=620&lines=Robel+Gebregziabher;Machine+Learning+Engineer;AI+Engineer;Building+Intelligent+Systems" alt="Typing Animation">
-</a>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Robel+Gebregziabher;Machine+Learning+Engineer;AI+Engineer;Building+Intelligent+Systems"
+alt="Typing Animation"
+/>
 
 <br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&section=header"
+/>
 
 ### Machine Learning · Deep Learning · Generative AI
 
