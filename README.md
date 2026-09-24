@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F3A,75:123A73,100:1D4ED8&height=300&section=header&text=Robel%20Gebregziabher&fontSize=52&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Generative%20AI&descAlignY=58&descSize=22&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:061A3A,70:0B2F63,100:123A73&height=300&section=header&text=Robel%20Gebregziabher&fontSize=52&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=20&descColor=93C5FD" width="100%"/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2800&pause=1000&color=60A5FA&background=02061700&center=true&vCenter=true&width=900&height=80&lines=AI+Engineering+Intern;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLM+Applications;Building+Intelligent+Systems"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2800&pause=1000&color=F8FAFC&background=061A3A&center=true&vCenter=true&width=900&height=80&lines=AI+Engineering+Intern;Machine+Learning+Engineer;Deep+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLM+Applications;Computer+Vision+%7C+NLP+%7C+AI+Agents;Building+Intelligent+Systems"
 alt="Typing Animation"
 />
 
@@ -14,7 +14,7 @@ alt="Typing Animation"
 </a>
 
 <a href="https://www.linkedin.com/in/robel-gebregziabher-4464762a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=60A5FA">
+<img src="https://img.shields.io/badge/LinkedIn-0B2F63?style=for-the-badge&logo=linkedin&logoColor=93C5FD">
 </a>
 
 <a href="https://www.upwork.com/freelancers/~010a1a953798c67751">
@@ -23,17 +23,10 @@ alt="Typing Animation"
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=1D4ED8&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=robelgher16-ai&label=Profile%20Views&color=123A73&style=for-the-badge">
 
 </div>
 
-<br>
-
-<div align="center">
-
-## <img src="https://img.shields.io/badge/ABOUT_ME-0B1F3A?style=for-the-badge&labelColor=020617">
-
-</div>
 
 I'm an **Information Technology student and AI Engineering intern** focused on building practical, intelligent systems.
 
