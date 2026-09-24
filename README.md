@@ -8,8 +8,6 @@
 
 ### Machine Learning · Deep Learning · Generative AI
 
-Building practical AI systems from **data and models to APIs and deployment**.
-
 <br>
 
 <a href="https://github.com/robelgher16-ai">
