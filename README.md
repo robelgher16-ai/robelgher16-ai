@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020C1F,50:03163A,100:052A5E&height=160&section=header&text=Robel%20Gebregziabher&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010814,50:021634,100:03295C&height=150&section=header&text=Robel%20Gebregziabher&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer&descAlignY=68&descSize=20&descColor=FFFFFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=FFFFFF&background=03163A&center=true&vCenter=true&width=520&height=44&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+LLM+Apps;Computer+Vision+%7C+NLP+%7C+AI+Agents" alt="Typing animation"/>
 
 <br>
 
-<a href="https://github.com/robelgher16-ai"><img src="https://img.shields.io/badge/GitHub-061A33?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/robel-gebregziabher-4464762a2/"><img src="https://img.shields.io/badge/LinkedIn-0B3D73?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.upwork.com/freelancers/~010a1a953798c67751"><img src="https://img.shields.io/badge/Upwork-123F73?style=flat-square&logo=upwork&logoColor=white"></a>
-<a href="https://www.instagram.com/robity16/"><img src="https://img.shields.io/badge/Instagram-164A7A?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/robelgher16-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/robel-gebregziabher-4464762a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.upwork.com/freelancers/~010a1a953798c67751"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"></a>
+<a href="https://www.instagram.com/robity16/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 
 </div>
 
@@ -72,6 +72,6 @@ I'm an **Information Technology student and AI Engineer** building practical, in
 
 <sub><b>Building intelligent systems. Learning continuously. Creating practical impact.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052A5E,100:020C1F&height=70&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03295C,100:010814&height=40&section=footer" width="100%"/>
 
 </div>
