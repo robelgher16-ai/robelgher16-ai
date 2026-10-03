@@ -1,1 +1,10 @@
-
+update 1 :-deeplearning project :- mnist classifier  change font color of this to black 
+      Create a single handwritten digit "7",
+      centered in the image, using simple
+      MNIST-style handwriting.
+      
+      Use a plain black background and a
+      clearly visible white digit.
+      
+      No other objects, no text, no shadows,
+      no decorations, square image.
