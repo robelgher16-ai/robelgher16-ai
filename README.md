@@ -22,35 +22,35 @@ I'm an **Information Technology student and AI Engineer** building practical, in
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-0B3D73?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-0B3D73?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-0B3D73?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-0B3D73?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-0B3D73?style=flat-square&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-0B3D73?style=flat-square">
-<img src="https://img.shields.io/badge/LightGBM-0B3D73?style=flat-square">
-<img src="https://img.shields.io/badge/CatBoost-0B3D73?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square">
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square">
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-082B52?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-082B52?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-082B52?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-082B52?style=flat-square&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-082B52?style=flat-square&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-082B52?style=flat-square&logo=huggingface&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-082B52?style=flat-square&logo=ollama&logoColor=white">
-<img src="https://img.shields.io/badge/ChromaDB-082B52?style=flat-square">
-<img src="https://img.shields.io/badge/Pinecone-082B52?style=flat-square">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square">
+<img src="https://img.shields.io/badge/Pinecone-1C17FF?style=flat-square">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-061A33?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-061A33?style=flat-square&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-061A33?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-061A33?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-061A33?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Render-061A33?style=flat-square&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black">
 </p>
 
 ## 📂 Projects
