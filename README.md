@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010814,50:021634,100:03295C&height=150&section=header&text=Robel%20Gebregziabher&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer&descAlignY=68&descSize=20&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010814,50:021634,100:03295C&height=150&section=header&animation=twinkling&text=Robel%20Gebregziabher&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer&descAlignY=68&descSize=20&descColor=FFFFFF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=FFFFFF&background=03163A&center=true&vCenter=true&width=520&height=44&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+LLM+Apps;Computer+Vision+%7C+NLP+%7C+AI+Agents" alt="Typing animation"/>
 
