@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A33,100:0B3D73&height=160&section=header&text=Robel%20Gebregziabher&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer&descAlignY=62&descSize=16&descColor=9CC3F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020C1F,50:03163A,100:052A5E&height=160&section=header&text=Robel%20Gebregziabher&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=9CC3F0&center=true&vCenter=true&width=460&height=30&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+LLM+Apps;Computer+Vision+%7C+NLP+%7C+AI+Agents" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=FFFFFF&background=03163A&center=true&vCenter=true&width=520&height=44&lines=Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+LLM+Apps;Computer+Vision+%7C+NLP+%7C+AI+Agents" alt="Typing animation"/>
 
 <br>
 
@@ -72,6 +72,6 @@ I'm an **Information Technology student and AI Engineer** building practical, in
 
 <sub><b>Building intelligent systems. Learning continuously. Creating practical impact.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D73,100:061A33&height=70&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052A5E,100:020C1F&height=70&section=footer" width="100%"/>
 
 </div>
